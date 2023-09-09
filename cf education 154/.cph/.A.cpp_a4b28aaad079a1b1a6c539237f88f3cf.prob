@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\admin\\Desktop\\new Codefores\\cf education 154\\A.cpp","tests":[{"id":1693544895346,"input":"4\n123456789\n987654321\n243567918\n576318429\n","output":"167\n53\n3571\n57638429"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\Desktop\\new Codefores\\cf education 154\\A.cpp","group":"local","local":true}
